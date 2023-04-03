@@ -1,4 +1,5 @@
-# <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=Leyukezer-Sys&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fagradecimento-obrigado-gifs&psig=AOvVaw3T6K2PbKR-FuWUGUen_VIc&ust=1680642048229000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJC1lNnNjv4CFQAAAAAdAAAAABAS)"/>
+
+# <div align="center"><img height="200em" src="https://media.tenor.com/riUY62dRgjkAAAAC/penguin-welcome.gif"/></div>
 ## Bem Vindo ao Meu Perfil 😄
 <div align="center">
   <a href="https://github.com/Leyukezer-Sys">
